@@ -1,4 +1,4 @@
-# Quest App
+# React Blog Platform
 
 This project is a React application that manages and displays a list of posts. The `Home` component fetches posts from an API, displays them to users, and allows users to add new posts. It’s designed to practice handling asynchronous data fetching, error handling, and rendering updates in real-time.
 
@@ -23,4 +23,4 @@ This project is a React application that manages and displays a list of posts. T
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/zakadamirli/Quest-app.git
+   git clone https://github.com/zakadamirli/react-blog-app.git
