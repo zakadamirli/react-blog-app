@@ -61,6 +61,8 @@ function Home() {
             text={post.text}
             userId={post.userId}
             userName={post.userName}
+            initialLikes={post.likesCount}  // Likes sayı
+            isLikedByUser={post.isLikedByUser}  // İstifadəçinin liked olub-olmaması
             style={{
               marginBottom: "16px",
               width: "100%",
